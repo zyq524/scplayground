@@ -1,0 +1,2 @@
+# scplayground
+Sitecore miscellaneous, POC
